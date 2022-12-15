@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h4>💻 Current status: <i>studying...<i><h4>
+<h4>💻 <b>Current status:<b> <i>studying...<i><h4>
 
 <!--
 **ReconGit/ReconGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
